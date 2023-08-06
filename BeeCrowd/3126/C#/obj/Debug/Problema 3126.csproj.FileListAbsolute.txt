@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\Problema 3126\bin\Debug\Problema 3126.exe.config
+C:\Users\pedro\source\repos\Problema 3126\bin\Debug\Problema 3126.exe
+C:\Users\pedro\source\repos\Problema 3126\bin\Debug\Problema 3126.pdb
+C:\Users\pedro\source\repos\Problema 3126\obj\Debug\Problema 3126.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\Problema 3126\obj\Debug\Problema 3126.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\Problema 3126\obj\Debug\Problema 3126.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Problema 3126\obj\Debug\Problema 3126.exe
+C:\Users\pedro\source\repos\Problema 3126\obj\Debug\Problema 3126.pdb

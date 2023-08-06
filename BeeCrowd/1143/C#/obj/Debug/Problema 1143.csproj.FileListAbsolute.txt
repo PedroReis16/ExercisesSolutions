@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\Problema 1143\bin\Debug\Problema 1143.exe.config
+C:\Users\pedro\source\repos\Problema 1143\bin\Debug\Problema 1143.exe
+C:\Users\pedro\source\repos\Problema 1143\bin\Debug\Problema 1143.pdb
+C:\Users\pedro\source\repos\Problema 1143\obj\Debug\Problema 1143.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\Problema 1143\obj\Debug\Problema 1143.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\Problema 1143\obj\Debug\Problema 1143.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Problema 1143\obj\Debug\Problema 1143.exe
+C:\Users\pedro\source\repos\Problema 1143\obj\Debug\Problema 1143.pdb

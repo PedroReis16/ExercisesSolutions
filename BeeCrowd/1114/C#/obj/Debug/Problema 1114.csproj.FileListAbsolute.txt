@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\Problema 1114\bin\Debug\Problema 1114.exe.config
+C:\Users\pedro\source\repos\Problema 1114\bin\Debug\Problema 1114.exe
+C:\Users\pedro\source\repos\Problema 1114\bin\Debug\Problema 1114.pdb
+C:\Users\pedro\source\repos\Problema 1114\obj\Debug\Problema 1114.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\Problema 1114\obj\Debug\Problema 1114.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\Problema 1114\obj\Debug\Problema 1114.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Problema 1114\obj\Debug\Problema 1114.exe
+C:\Users\pedro\source\repos\Problema 1114\obj\Debug\Problema 1114.pdb

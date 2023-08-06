@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\CodeWars - String repeat\bin\Debug\CodeWars - String repeat.exe.config
+C:\Users\pedro\source\repos\CodeWars - String repeat\bin\Debug\CodeWars - String repeat.exe
+C:\Users\pedro\source\repos\CodeWars - String repeat\bin\Debug\CodeWars - String repeat.pdb
+C:\Users\pedro\source\repos\CodeWars - String repeat\obj\Debug\CodeWars - String repeat.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\CodeWars - String repeat\obj\Debug\CodeWars - String repeat.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\CodeWars - String repeat\obj\Debug\CodeWars - String repeat.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\CodeWars - String repeat\obj\Debug\CodeWars - String repeat.exe
+C:\Users\pedro\source\repos\CodeWars - String repeat\obj\Debug\CodeWars - String repeat.pdb

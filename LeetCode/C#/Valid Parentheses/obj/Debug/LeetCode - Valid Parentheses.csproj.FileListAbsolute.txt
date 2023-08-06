@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\LeetCode - Valid Parentheses\bin\Debug\LeetCode - Valid Parentheses.exe.config
+C:\Users\pedro\source\repos\LeetCode - Valid Parentheses\bin\Debug\LeetCode - Valid Parentheses.exe
+C:\Users\pedro\source\repos\LeetCode - Valid Parentheses\bin\Debug\LeetCode - Valid Parentheses.pdb
+C:\Users\pedro\source\repos\LeetCode - Valid Parentheses\obj\Debug\LeetCode - Valid Parentheses.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\LeetCode - Valid Parentheses\obj\Debug\LeetCode - Valid Parentheses.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\LeetCode - Valid Parentheses\obj\Debug\LeetCode - Valid Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\LeetCode - Valid Parentheses\obj\Debug\LeetCode - Valid Parentheses.exe
+C:\Users\pedro\source\repos\LeetCode - Valid Parentheses\obj\Debug\LeetCode - Valid Parentheses.pdb

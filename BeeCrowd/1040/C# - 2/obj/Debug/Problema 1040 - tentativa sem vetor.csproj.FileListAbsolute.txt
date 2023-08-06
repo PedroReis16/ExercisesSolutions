@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\Problema 1040 - tentativa sem vetor\bin\Debug\Problema 1040 - tentativa sem vetor.exe.config
+C:\Users\pedro\source\repos\Problema 1040 - tentativa sem vetor\bin\Debug\Problema 1040 - tentativa sem vetor.exe
+C:\Users\pedro\source\repos\Problema 1040 - tentativa sem vetor\bin\Debug\Problema 1040 - tentativa sem vetor.pdb
+C:\Users\pedro\source\repos\Problema 1040 - tentativa sem vetor\obj\Debug\Problema 1040 - tentativa sem vetor.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\Problema 1040 - tentativa sem vetor\obj\Debug\Problema 1040 - tentativa sem vetor.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\Problema 1040 - tentativa sem vetor\obj\Debug\Problema 1040 - tentativa sem vetor.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Problema 1040 - tentativa sem vetor\obj\Debug\Problema 1040 - tentativa sem vetor.exe
+C:\Users\pedro\source\repos\Problema 1040 - tentativa sem vetor\obj\Debug\Problema 1040 - tentativa sem vetor.pdb

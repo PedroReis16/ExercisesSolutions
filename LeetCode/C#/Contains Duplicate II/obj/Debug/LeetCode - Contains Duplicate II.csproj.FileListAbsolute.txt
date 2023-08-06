@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\LeetCode - Contains Duplicate II\bin\Debug\LeetCode - Contains Duplicate II.exe.config
+C:\Users\pedro\source\repos\LeetCode - Contains Duplicate II\bin\Debug\LeetCode - Contains Duplicate II.exe
+C:\Users\pedro\source\repos\LeetCode - Contains Duplicate II\bin\Debug\LeetCode - Contains Duplicate II.pdb
+C:\Users\pedro\source\repos\LeetCode - Contains Duplicate II\obj\Debug\LeetCode - Contains Duplicate II.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\LeetCode - Contains Duplicate II\obj\Debug\LeetCode - Contains Duplicate II.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\LeetCode - Contains Duplicate II\obj\Debug\LeetCode - Contains Duplicate II.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\LeetCode - Contains Duplicate II\obj\Debug\LeetCode - Contains Duplicate II.exe
+C:\Users\pedro\source\repos\LeetCode - Contains Duplicate II\obj\Debug\LeetCode - Contains Duplicate II.pdb

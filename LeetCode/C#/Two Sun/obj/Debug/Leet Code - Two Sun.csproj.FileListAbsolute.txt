@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\Leet Code - Two Sun\bin\Debug\Leet Code - Two Sun.exe.config
+C:\Users\pedro\source\repos\Leet Code - Two Sun\bin\Debug\Leet Code - Two Sun.exe
+C:\Users\pedro\source\repos\Leet Code - Two Sun\bin\Debug\Leet Code - Two Sun.pdb
+C:\Users\pedro\source\repos\Leet Code - Two Sun\obj\Debug\Leet Code - Two Sun.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\Leet Code - Two Sun\obj\Debug\Leet Code - Two Sun.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\Leet Code - Two Sun\obj\Debug\Leet Code - Two Sun.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Leet Code - Two Sun\obj\Debug\Leet Code - Two Sun.exe
+C:\Users\pedro\source\repos\Leet Code - Two Sun\obj\Debug\Leet Code - Two Sun.pdb

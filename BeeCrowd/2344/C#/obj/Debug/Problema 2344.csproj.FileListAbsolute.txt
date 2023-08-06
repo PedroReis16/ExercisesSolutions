@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\Problema 2344\bin\Debug\Problema 2344.exe.config
+C:\Users\pedro\source\repos\Problema 2344\bin\Debug\Problema 2344.exe
+C:\Users\pedro\source\repos\Problema 2344\bin\Debug\Problema 2344.pdb
+C:\Users\pedro\source\repos\Problema 2344\obj\Debug\Problema 2344.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\Problema 2344\obj\Debug\Problema 2344.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\Problema 2344\obj\Debug\Problema 2344.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Problema 2344\obj\Debug\Problema 2344.exe
+C:\Users\pedro\source\repos\Problema 2344\obj\Debug\Problema 2344.pdb

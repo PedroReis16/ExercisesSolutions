@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\Problema 1959\bin\Debug\Problema 1959.exe.config
+C:\Users\pedro\source\repos\Problema 1959\bin\Debug\Problema 1959.exe
+C:\Users\pedro\source\repos\Problema 1959\bin\Debug\Problema 1959.pdb
+C:\Users\pedro\source\repos\Problema 1959\obj\Debug\Problema 1959.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\Problema 1959\obj\Debug\Problema 1959.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\Problema 1959\obj\Debug\Problema 1959.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Problema 1959\obj\Debug\Problema 1959.exe
+C:\Users\pedro\source\repos\Problema 1959\obj\Debug\Problema 1959.pdb

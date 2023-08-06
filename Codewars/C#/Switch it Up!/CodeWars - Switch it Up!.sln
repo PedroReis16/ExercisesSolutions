@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars - Switch it Up!", "CodeWars - Switch it Up!.csproj", "{98DBACDB-1CB9-4B00-A008-17725B887106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98DBACDB-1CB9-4B00-A008-17725B887106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98DBACDB-1CB9-4B00-A008-17725B887106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98DBACDB-1CB9-4B00-A008-17725B887106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98DBACDB-1CB9-4B00-A008-17725B887106}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F67906F-A9EA-42EE-AEB0-417A7383F867}
+	EndGlobalSection
+EndGlobal

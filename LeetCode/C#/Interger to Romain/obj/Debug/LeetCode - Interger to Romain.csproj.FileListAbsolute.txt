@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\LeetCode - Interger to Romain\bin\Debug\LeetCode - Interger to Romain.exe.config
+C:\Users\pedro\source\repos\LeetCode - Interger to Romain\bin\Debug\LeetCode - Interger to Romain.exe
+C:\Users\pedro\source\repos\LeetCode - Interger to Romain\bin\Debug\LeetCode - Interger to Romain.pdb
+C:\Users\pedro\source\repos\LeetCode - Interger to Romain\obj\Debug\LeetCode - Interger to Romain.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\LeetCode - Interger to Romain\obj\Debug\LeetCode - Interger to Romain.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\LeetCode - Interger to Romain\obj\Debug\LeetCode - Interger to Romain.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\LeetCode - Interger to Romain\obj\Debug\LeetCode - Interger to Romain.exe
+C:\Users\pedro\source\repos\LeetCode - Interger to Romain\obj\Debug\LeetCode - Interger to Romain.pdb

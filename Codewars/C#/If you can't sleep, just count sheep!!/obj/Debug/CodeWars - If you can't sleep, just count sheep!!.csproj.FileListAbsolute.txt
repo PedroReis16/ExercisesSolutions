@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\CodeWars - If you can't sleep, just count sheep!!\bin\Debug\CodeWars - If you can't sleep, just count sheep!!.exe.config
+C:\Users\pedro\source\repos\CodeWars - If you can't sleep, just count sheep!!\bin\Debug\CodeWars - If you can't sleep, just count sheep!!.exe
+C:\Users\pedro\source\repos\CodeWars - If you can't sleep, just count sheep!!\bin\Debug\CodeWars - If you can't sleep, just count sheep!!.pdb
+C:\Users\pedro\source\repos\CodeWars - If you can't sleep, just count sheep!!\obj\Debug\CodeWars - If you can't sleep, just count sheep!!.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\CodeWars - If you can't sleep, just count sheep!!\obj\Debug\CodeWars - If you can't sleep, just count sheep!!.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\CodeWars - If you can't sleep, just count sheep!!\obj\Debug\CodeWars - If you can't sleep, just count sheep!!.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\CodeWars - If you can't sleep, just count sheep!!\obj\Debug\CodeWars - If you can't sleep, just count sheep!!.exe
+C:\Users\pedro\source\repos\CodeWars - If you can't sleep, just count sheep!!\obj\Debug\CodeWars - If you can't sleep, just count sheep!!.pdb

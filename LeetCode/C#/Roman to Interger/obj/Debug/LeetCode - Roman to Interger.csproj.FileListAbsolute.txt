@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\LeetCode - Roman to Interger\bin\Debug\LeetCode - Roman to Interger.exe.config
+C:\Users\pedro\source\repos\LeetCode - Roman to Interger\bin\Debug\LeetCode - Roman to Interger.exe
+C:\Users\pedro\source\repos\LeetCode - Roman to Interger\bin\Debug\LeetCode - Roman to Interger.pdb
+C:\Users\pedro\source\repos\LeetCode - Roman to Interger\obj\Debug\LeetCode - Roman to Interger.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\LeetCode - Roman to Interger\obj\Debug\LeetCode - Roman to Interger.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\LeetCode - Roman to Interger\obj\Debug\LeetCode - Roman to Interger.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\LeetCode - Roman to Interger\obj\Debug\LeetCode - Roman to Interger.exe
+C:\Users\pedro\source\repos\LeetCode - Roman to Interger\obj\Debug\LeetCode - Roman to Interger.pdb

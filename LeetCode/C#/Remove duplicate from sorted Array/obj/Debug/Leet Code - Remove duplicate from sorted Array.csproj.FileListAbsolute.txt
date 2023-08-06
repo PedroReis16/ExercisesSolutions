@@ -1,0 +1,8 @@
+D:\pedro\Documentos\Programação\C#\Leet Code - Remove duplicate from sorted Array\bin\Debug\Leet Code - Remove duplicate from sorted Array.exe.config
+D:\pedro\Documentos\Programação\C#\Leet Code - Remove duplicate from sorted Array\bin\Debug\Leet Code - Remove duplicate from sorted Array.exe
+D:\pedro\Documentos\Programação\C#\Leet Code - Remove duplicate from sorted Array\bin\Debug\Leet Code - Remove duplicate from sorted Array.pdb
+D:\pedro\Documentos\Programação\C#\Leet Code - Remove duplicate from sorted Array\obj\Debug\Leet Code - Remove duplicate from sorted Array.csproj.AssemblyReference.cache
+D:\pedro\Documentos\Programação\C#\Leet Code - Remove duplicate from sorted Array\obj\Debug\Leet Code - Remove duplicate from sorted Array.csproj.SuggestedBindingRedirects.cache
+D:\pedro\Documentos\Programação\C#\Leet Code - Remove duplicate from sorted Array\obj\Debug\Leet Code - Remove duplicate from sorted Array.csproj.CoreCompileInputs.cache
+D:\pedro\Documentos\Programação\C#\Leet Code - Remove duplicate from sorted Array\obj\Debug\Leet Code - Remove duplicate from sorted Array.exe
+D:\pedro\Documentos\Programação\C#\Leet Code - Remove duplicate from sorted Array\obj\Debug\Leet Code - Remove duplicate from sorted Array.pdb

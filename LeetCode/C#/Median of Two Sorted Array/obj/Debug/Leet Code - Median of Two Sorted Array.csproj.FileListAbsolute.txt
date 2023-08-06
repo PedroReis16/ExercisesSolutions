@@ -1,0 +1,8 @@
+D:\pedro\Documentos\Programação\C#\Leet Code - Median of Two Sorted Array\bin\Debug\Leet Code - Median of Two Sorted Array.exe.config
+D:\pedro\Documentos\Programação\C#\Leet Code - Median of Two Sorted Array\bin\Debug\Leet Code - Median of Two Sorted Array.exe
+D:\pedro\Documentos\Programação\C#\Leet Code - Median of Two Sorted Array\bin\Debug\Leet Code - Median of Two Sorted Array.pdb
+D:\pedro\Documentos\Programação\C#\Leet Code - Median of Two Sorted Array\obj\Debug\Leet Code - Median of Two Sorted Array.csproj.AssemblyReference.cache
+D:\pedro\Documentos\Programação\C#\Leet Code - Median of Two Sorted Array\obj\Debug\Leet Code - Median of Two Sorted Array.csproj.SuggestedBindingRedirects.cache
+D:\pedro\Documentos\Programação\C#\Leet Code - Median of Two Sorted Array\obj\Debug\Leet Code - Median of Two Sorted Array.csproj.CoreCompileInputs.cache
+D:\pedro\Documentos\Programação\C#\Leet Code - Median of Two Sorted Array\obj\Debug\Leet Code - Median of Two Sorted Array.exe
+D:\pedro\Documentos\Programação\C#\Leet Code - Median of Two Sorted Array\obj\Debug\Leet Code - Median of Two Sorted Array.pdb

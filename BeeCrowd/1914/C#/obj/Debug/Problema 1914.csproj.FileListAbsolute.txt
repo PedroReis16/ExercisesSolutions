@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\Problema 1914\bin\Debug\Problema 1914.exe.config
+C:\Users\pedro\source\repos\Problema 1914\bin\Debug\Problema 1914.exe
+C:\Users\pedro\source\repos\Problema 1914\bin\Debug\Problema 1914.pdb
+C:\Users\pedro\source\repos\Problema 1914\obj\Debug\Problema 1914.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\Problema 1914\obj\Debug\Problema 1914.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\Problema 1914\obj\Debug\Problema 1914.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Problema 1914\obj\Debug\Problema 1914.exe
+C:\Users\pedro\source\repos\Problema 1914\obj\Debug\Problema 1914.pdb

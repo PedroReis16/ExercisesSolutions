@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\Problema 1048\bin\Debug\Problema 1048.exe.config
+C:\Users\pedro\source\repos\Problema 1048\bin\Debug\Problema 1048.exe
+C:\Users\pedro\source\repos\Problema 1048\bin\Debug\Problema 1048.pdb
+C:\Users\pedro\source\repos\Problema 1048\obj\Debug\Problema 1048.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\Problema 1048\obj\Debug\Problema 1048.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\Problema 1048\obj\Debug\Problema 1048.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Problema 1048\obj\Debug\Problema 1048.exe
+C:\Users\pedro\source\repos\Problema 1048\obj\Debug\Problema 1048.pdb

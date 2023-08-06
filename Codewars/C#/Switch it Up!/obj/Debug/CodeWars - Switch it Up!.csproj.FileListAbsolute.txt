@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\CodeWars - Switch it Up!\bin\Debug\CodeWars - Switch it Up!.exe.config
+C:\Users\pedro\source\repos\CodeWars - Switch it Up!\bin\Debug\CodeWars - Switch it Up!.exe
+C:\Users\pedro\source\repos\CodeWars - Switch it Up!\bin\Debug\CodeWars - Switch it Up!.pdb
+C:\Users\pedro\source\repos\CodeWars - Switch it Up!\obj\Debug\CodeWars - Switch it Up!.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\CodeWars - Switch it Up!\obj\Debug\CodeWars - Switch it Up!.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\CodeWars - Switch it Up!\obj\Debug\CodeWars - Switch it Up!.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\CodeWars - Switch it Up!\obj\Debug\CodeWars - Switch it Up!.exe
+C:\Users\pedro\source\repos\CodeWars - Switch it Up!\obj\Debug\CodeWars - Switch it Up!.pdb

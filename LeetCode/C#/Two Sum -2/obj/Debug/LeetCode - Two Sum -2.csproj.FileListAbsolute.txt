@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\LeetCode - Two Sum -2\obj\Debug\LeetCode - Two Sum -2.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\LeetCode - Two Sum -2\obj\Debug\LeetCode - Two Sum -2.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\LeetCode - Two Sum -2\obj\Debug\LeetCode - Two Sum -2.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\LeetCode - Two Sum -2\bin\Debug\LeetCode - Two Sum -2.exe.config
+C:\Users\pedro\source\repos\LeetCode - Two Sum -2\bin\Debug\LeetCode - Two Sum -2.exe
+C:\Users\pedro\source\repos\LeetCode - Two Sum -2\bin\Debug\LeetCode - Two Sum -2.pdb
+C:\Users\pedro\source\repos\LeetCode - Two Sum -2\obj\Debug\LeetCode - Two Sum -2.exe
+C:\Users\pedro\source\repos\LeetCode - Two Sum -2\obj\Debug\LeetCode - Two Sum -2.pdb

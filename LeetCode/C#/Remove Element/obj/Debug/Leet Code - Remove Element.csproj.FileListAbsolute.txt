@@ -1,0 +1,8 @@
+D:\pedro\Documentos\Programação\C#\Leet Code - Remove Element\bin\Debug\Leet Code - Remove Element.exe.config
+D:\pedro\Documentos\Programação\C#\Leet Code - Remove Element\bin\Debug\Leet Code - Remove Element.exe
+D:\pedro\Documentos\Programação\C#\Leet Code - Remove Element\bin\Debug\Leet Code - Remove Element.pdb
+D:\pedro\Documentos\Programação\C#\Leet Code - Remove Element\obj\Debug\Leet Code - Remove Element.csproj.AssemblyReference.cache
+D:\pedro\Documentos\Programação\C#\Leet Code - Remove Element\obj\Debug\Leet Code - Remove Element.csproj.SuggestedBindingRedirects.cache
+D:\pedro\Documentos\Programação\C#\Leet Code - Remove Element\obj\Debug\Leet Code - Remove Element.csproj.CoreCompileInputs.cache
+D:\pedro\Documentos\Programação\C#\Leet Code - Remove Element\obj\Debug\Leet Code - Remove Element.exe
+D:\pedro\Documentos\Programação\C#\Leet Code - Remove Element\obj\Debug\Leet Code - Remove Element.pdb

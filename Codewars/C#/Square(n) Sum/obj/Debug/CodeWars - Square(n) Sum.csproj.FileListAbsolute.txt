@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\CodeWars - Square(n) Sum\bin\Debug\CodeWars - Square(n) Sum.exe.config
+C:\Users\pedro\source\repos\CodeWars - Square(n) Sum\bin\Debug\CodeWars - Square(n) Sum.exe
+C:\Users\pedro\source\repos\CodeWars - Square(n) Sum\bin\Debug\CodeWars - Square(n) Sum.pdb
+C:\Users\pedro\source\repos\CodeWars - Square(n) Sum\obj\Debug\CodeWars - Square(n) Sum.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\CodeWars - Square(n) Sum\obj\Debug\CodeWars - Square(n) Sum.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\CodeWars - Square(n) Sum\obj\Debug\CodeWars - Square(n) Sum.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\CodeWars - Square(n) Sum\obj\Debug\CodeWars - Square(n) Sum.exe
+C:\Users\pedro\source\repos\CodeWars - Square(n) Sum\obj\Debug\CodeWars - Square(n) Sum.pdb

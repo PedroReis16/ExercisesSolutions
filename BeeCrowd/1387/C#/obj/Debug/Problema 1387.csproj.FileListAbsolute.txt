@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\Problema 1387\bin\Debug\Problema 1387.exe.config
+C:\Users\pedro\source\repos\Problema 1387\bin\Debug\Problema 1387.exe
+C:\Users\pedro\source\repos\Problema 1387\bin\Debug\Problema 1387.pdb
+C:\Users\pedro\source\repos\Problema 1387\obj\Debug\Problema 1387.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\Problema 1387\obj\Debug\Problema 1387.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\Problema 1387\obj\Debug\Problema 1387.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Problema 1387\obj\Debug\Problema 1387.exe
+C:\Users\pedro\source\repos\Problema 1387\obj\Debug\Problema 1387.pdb

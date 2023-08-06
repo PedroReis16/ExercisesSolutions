@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\LeetCode - Add to Array-Form of Integer\bin\Debug\LeetCode - Add to Array-Form of Integer.exe.config
+C:\Users\pedro\source\repos\LeetCode - Add to Array-Form of Integer\bin\Debug\LeetCode - Add to Array-Form of Integer.exe
+C:\Users\pedro\source\repos\LeetCode - Add to Array-Form of Integer\bin\Debug\LeetCode - Add to Array-Form of Integer.pdb
+C:\Users\pedro\source\repos\LeetCode - Add to Array-Form of Integer\obj\Debug\LeetCode - Add to Array-Form of Integer.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\LeetCode - Add to Array-Form of Integer\obj\Debug\LeetCode - Add to Array-Form of Integer.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\LeetCode - Add to Array-Form of Integer\obj\Debug\LeetCode - Add to Array-Form of Integer.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\LeetCode - Add to Array-Form of Integer\obj\Debug\LeetCode - Add to Array-Form of Integer.exe
+C:\Users\pedro\source\repos\LeetCode - Add to Array-Form of Integer\obj\Debug\LeetCode - Add to Array-Form of Integer.pdb

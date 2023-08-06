@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\Problema 1044\bin\Debug\Problema 1044.exe.config
+C:\Users\pedro\source\repos\Problema 1044\bin\Debug\Problema 1044.exe
+C:\Users\pedro\source\repos\Problema 1044\bin\Debug\Problema 1044.pdb
+C:\Users\pedro\source\repos\Problema 1044\obj\Debug\Problema 1044.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\Problema 1044\obj\Debug\Problema 1044.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\Problema 1044\obj\Debug\Problema 1044.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Problema 1044\obj\Debug\Problema 1044.exe
+C:\Users\pedro\source\repos\Problema 1044\obj\Debug\Problema 1044.pdb

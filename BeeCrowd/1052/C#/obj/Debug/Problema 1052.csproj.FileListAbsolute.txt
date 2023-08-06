@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\Problema 1052\bin\Debug\Problema 1052.exe.config
+C:\Users\pedro\source\repos\Problema 1052\bin\Debug\Problema 1052.exe
+C:\Users\pedro\source\repos\Problema 1052\bin\Debug\Problema 1052.pdb
+C:\Users\pedro\source\repos\Problema 1052\obj\Debug\Problema 1052.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\Problema 1052\obj\Debug\Problema 1052.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\Problema 1052\obj\Debug\Problema 1052.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Problema 1052\obj\Debug\Problema 1052.exe
+C:\Users\pedro\source\repos\Problema 1052\obj\Debug\Problema 1052.pdb

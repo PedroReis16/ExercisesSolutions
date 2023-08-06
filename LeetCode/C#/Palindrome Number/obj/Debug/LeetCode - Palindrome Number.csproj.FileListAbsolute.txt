@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\LeetCode - Palindrome Number\bin\Debug\LeetCode - Palindrome Number.exe.config
+C:\Users\pedro\source\repos\LeetCode - Palindrome Number\bin\Debug\LeetCode - Palindrome Number.exe
+C:\Users\pedro\source\repos\LeetCode - Palindrome Number\bin\Debug\LeetCode - Palindrome Number.pdb
+C:\Users\pedro\source\repos\LeetCode - Palindrome Number\obj\Debug\LeetCode - Palindrome Number.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\LeetCode - Palindrome Number\obj\Debug\LeetCode - Palindrome Number.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\LeetCode - Palindrome Number\obj\Debug\LeetCode - Palindrome Number.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\LeetCode - Palindrome Number\obj\Debug\LeetCode - Palindrome Number.exe
+C:\Users\pedro\source\repos\LeetCode - Palindrome Number\obj\Debug\LeetCode - Palindrome Number.pdb

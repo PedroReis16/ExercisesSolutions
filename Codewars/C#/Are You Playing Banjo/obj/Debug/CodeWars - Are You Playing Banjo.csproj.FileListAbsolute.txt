@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\CodeWars - Are You Playing Banjo\bin\Debug\CodeWars - Are You Playing Banjo.exe.config
+C:\Users\pedro\source\repos\CodeWars - Are You Playing Banjo\bin\Debug\CodeWars - Are You Playing Banjo.exe
+C:\Users\pedro\source\repos\CodeWars - Are You Playing Banjo\bin\Debug\CodeWars - Are You Playing Banjo.pdb
+C:\Users\pedro\source\repos\CodeWars - Are You Playing Banjo\obj\Debug\CodeWars - Are You Playing Banjo.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\CodeWars - Are You Playing Banjo\obj\Debug\CodeWars - Are You Playing Banjo.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\CodeWars - Are You Playing Banjo\obj\Debug\CodeWars - Are You Playing Banjo.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\CodeWars - Are You Playing Banjo\obj\Debug\CodeWars - Are You Playing Banjo.exe
+C:\Users\pedro\source\repos\CodeWars - Are You Playing Banjo\obj\Debug\CodeWars - Are You Playing Banjo.pdb

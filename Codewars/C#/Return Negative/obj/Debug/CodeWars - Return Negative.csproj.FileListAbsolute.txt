@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\CodeWars - Return Negative\bin\Debug\CodeWars - Return Negative.exe.config
+C:\Users\pedro\source\repos\CodeWars - Return Negative\bin\Debug\CodeWars - Return Negative.exe
+C:\Users\pedro\source\repos\CodeWars - Return Negative\bin\Debug\CodeWars - Return Negative.pdb
+C:\Users\pedro\source\repos\CodeWars - Return Negative\obj\Debug\CodeWars - Return Negative.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\CodeWars - Return Negative\obj\Debug\CodeWars - Return Negative.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\CodeWars - Return Negative\obj\Debug\CodeWars - Return Negative.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\CodeWars - Return Negative\obj\Debug\CodeWars - Return Negative.exe
+C:\Users\pedro\source\repos\CodeWars - Return Negative\obj\Debug\CodeWars - Return Negative.pdb

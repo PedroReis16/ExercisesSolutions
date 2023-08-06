@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\Problema 1015\bin\Debug\Problema 1015.exe.config
+C:\Users\pedro\source\repos\Problema 1015\bin\Debug\Problema 1015.exe
+C:\Users\pedro\source\repos\Problema 1015\bin\Debug\Problema 1015.pdb
+C:\Users\pedro\source\repos\Problema 1015\obj\Debug\Problema 1015.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\Problema 1015\obj\Debug\Problema 1015.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\Problema 1015\obj\Debug\Problema 1015.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Problema 1015\obj\Debug\Problema 1015.exe
+C:\Users\pedro\source\repos\Problema 1015\obj\Debug\Problema 1015.pdb

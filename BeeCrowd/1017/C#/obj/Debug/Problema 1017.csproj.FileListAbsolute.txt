@@ -1,0 +1,8 @@
+D:\Programação\Problema 1017\bin\Debug\Problema 1017.exe.config
+D:\Programação\Problema 1017\bin\Debug\Problema 1017.exe
+D:\Programação\Problema 1017\bin\Debug\Problema 1017.pdb
+D:\Programação\Problema 1017\obj\Debug\Problema 1017.csproj.AssemblyReference.cache
+D:\Programação\Problema 1017\obj\Debug\Problema 1017.csproj.SuggestedBindingRedirects.cache
+D:\Programação\Problema 1017\obj\Debug\Problema 1017.csproj.CoreCompileInputs.cache
+D:\Programação\Problema 1017\obj\Debug\Problema 1017.exe
+D:\Programação\Problema 1017\obj\Debug\Problema 1017.pdb

@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\Problema 1049\bin\Debug\Problema 1049.exe.config
+C:\Users\pedro\source\repos\Problema 1049\bin\Debug\Problema 1049.exe
+C:\Users\pedro\source\repos\Problema 1049\bin\Debug\Problema 1049.pdb
+C:\Users\pedro\source\repos\Problema 1049\obj\Debug\Problema 1049.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\Problema 1049\obj\Debug\Problema 1049.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\Problema 1049\obj\Debug\Problema 1049.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Problema 1049\obj\Debug\Problema 1049.exe
+C:\Users\pedro\source\repos\Problema 1049\obj\Debug\Problema 1049.pdb

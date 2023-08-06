@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\Problema 1259\bin\Debug\Problema 1259.exe.config
+C:\Users\pedro\source\repos\Problema 1259\bin\Debug\Problema 1259.exe
+C:\Users\pedro\source\repos\Problema 1259\bin\Debug\Problema 1259.pdb
+C:\Users\pedro\source\repos\Problema 1259\obj\Debug\Problema 1259.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\Problema 1259\obj\Debug\Problema 1259.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\Problema 1259\obj\Debug\Problema 1259.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Problema 1259\obj\Debug\Problema 1259.exe
+C:\Users\pedro\source\repos\Problema 1259\obj\Debug\Problema 1259.pdb

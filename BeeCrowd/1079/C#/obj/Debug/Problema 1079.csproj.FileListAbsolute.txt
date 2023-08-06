@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\Problema 1079\bin\Debug\Problema 1079.exe.config
+C:\Users\pedro\source\repos\Problema 1079\bin\Debug\Problema 1079.exe
+C:\Users\pedro\source\repos\Problema 1079\bin\Debug\Problema 1079.pdb
+C:\Users\pedro\source\repos\Problema 1079\obj\Debug\Problema 1079.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\Problema 1079\obj\Debug\Problema 1079.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\Problema 1079\obj\Debug\Problema 1079.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Problema 1079\obj\Debug\Problema 1079.exe
+C:\Users\pedro\source\repos\Problema 1079\obj\Debug\Problema 1079.pdb

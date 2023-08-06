@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\Problema 1171\bin\Debug\Problema 1171.exe.config
+C:\Users\pedro\source\repos\Problema 1171\bin\Debug\Problema 1171.exe
+C:\Users\pedro\source\repos\Problema 1171\bin\Debug\Problema 1171.pdb
+C:\Users\pedro\source\repos\Problema 1171\obj\Debug\Problema 1171.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\Problema 1171\obj\Debug\Problema 1171.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\Problema 1171\obj\Debug\Problema 1171.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Problema 1171\obj\Debug\Problema 1171.exe
+C:\Users\pedro\source\repos\Problema 1171\obj\Debug\Problema 1171.pdb

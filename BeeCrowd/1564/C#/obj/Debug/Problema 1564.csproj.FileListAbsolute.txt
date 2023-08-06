@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\Problema 1564\bin\Debug\Problema 1564.exe.config
+C:\Users\pedro\source\repos\Problema 1564\bin\Debug\Problema 1564.exe
+C:\Users\pedro\source\repos\Problema 1564\bin\Debug\Problema 1564.pdb
+C:\Users\pedro\source\repos\Problema 1564\obj\Debug\Problema 1564.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\Problema 1564\obj\Debug\Problema 1564.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\Problema 1564\obj\Debug\Problema 1564.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Problema 1564\obj\Debug\Problema 1564.exe
+C:\Users\pedro\source\repos\Problema 1564\obj\Debug\Problema 1564.pdb

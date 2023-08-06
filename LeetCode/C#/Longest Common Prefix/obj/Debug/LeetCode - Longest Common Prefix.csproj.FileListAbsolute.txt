@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\LeetCode - Longest Common Prefix\bin\Debug\LeetCode - Longest Common Prefix.exe.config
+C:\Users\pedro\source\repos\LeetCode - Longest Common Prefix\bin\Debug\LeetCode - Longest Common Prefix.exe
+C:\Users\pedro\source\repos\LeetCode - Longest Common Prefix\bin\Debug\LeetCode - Longest Common Prefix.pdb
+C:\Users\pedro\source\repos\LeetCode - Longest Common Prefix\obj\Debug\LeetCode - Longest Common Prefix.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\LeetCode - Longest Common Prefix\obj\Debug\LeetCode - Longest Common Prefix.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\LeetCode - Longest Common Prefix\obj\Debug\LeetCode - Longest Common Prefix.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\LeetCode - Longest Common Prefix\obj\Debug\LeetCode - Longest Common Prefix.exe
+C:\Users\pedro\source\repos\LeetCode - Longest Common Prefix\obj\Debug\LeetCode - Longest Common Prefix.pdb

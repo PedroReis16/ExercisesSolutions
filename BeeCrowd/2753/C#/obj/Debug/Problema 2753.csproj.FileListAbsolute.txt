@@ -1,0 +1,8 @@
+C:\Users\pedro\source\repos\Problema 2753\bin\Debug\Problema 2753.exe.config
+C:\Users\pedro\source\repos\Problema 2753\bin\Debug\Problema 2753.exe
+C:\Users\pedro\source\repos\Problema 2753\bin\Debug\Problema 2753.pdb
+C:\Users\pedro\source\repos\Problema 2753\obj\Debug\Problema 2753.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\Problema 2753\obj\Debug\Problema 2753.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\source\repos\Problema 2753\obj\Debug\Problema 2753.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Problema 2753\obj\Debug\Problema 2753.exe
+C:\Users\pedro\source\repos\Problema 2753\obj\Debug\Problema 2753.pdb
