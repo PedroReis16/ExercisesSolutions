@@ -1,0 +1,15 @@
+/Users/meumac/Code/ExercisesSolutions/LeetCode/C#/AddTwoNumbers/AddTwoNumbers/bin/Debug/net10.0/AddTwoNumbers
+/Users/meumac/Code/ExercisesSolutions/LeetCode/C#/AddTwoNumbers/AddTwoNumbers/bin/Debug/net10.0/AddTwoNumbers.deps.json
+/Users/meumac/Code/ExercisesSolutions/LeetCode/C#/AddTwoNumbers/AddTwoNumbers/bin/Debug/net10.0/AddTwoNumbers.runtimeconfig.json
+/Users/meumac/Code/ExercisesSolutions/LeetCode/C#/AddTwoNumbers/AddTwoNumbers/bin/Debug/net10.0/AddTwoNumbers.dll
+/Users/meumac/Code/ExercisesSolutions/LeetCode/C#/AddTwoNumbers/AddTwoNumbers/bin/Debug/net10.0/AddTwoNumbers.pdb
+/Users/meumac/Code/ExercisesSolutions/LeetCode/C#/AddTwoNumbers/AddTwoNumbers/obj/Debug/net10.0/AddTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meumac/Code/ExercisesSolutions/LeetCode/C#/AddTwoNumbers/AddTwoNumbers/obj/Debug/net10.0/AddTwoNumbers.AssemblyInfoInputs.cache
+/Users/meumac/Code/ExercisesSolutions/LeetCode/C#/AddTwoNumbers/AddTwoNumbers/obj/Debug/net10.0/AddTwoNumbers.AssemblyInfo.cs
+/Users/meumac/Code/ExercisesSolutions/LeetCode/C#/AddTwoNumbers/AddTwoNumbers/obj/Debug/net10.0/AddTwoNumbers.csproj.CoreCompileInputs.cache
+/Users/meumac/Code/ExercisesSolutions/LeetCode/C#/AddTwoNumbers/AddTwoNumbers/obj/Debug/net10.0/AddTwoNumbers.sourcelink.json
+/Users/meumac/Code/ExercisesSolutions/LeetCode/C#/AddTwoNumbers/AddTwoNumbers/obj/Debug/net10.0/AddTwoNumbers.dll
+/Users/meumac/Code/ExercisesSolutions/LeetCode/C#/AddTwoNumbers/AddTwoNumbers/obj/Debug/net10.0/refint/AddTwoNumbers.dll
+/Users/meumac/Code/ExercisesSolutions/LeetCode/C#/AddTwoNumbers/AddTwoNumbers/obj/Debug/net10.0/AddTwoNumbers.pdb
+/Users/meumac/Code/ExercisesSolutions/LeetCode/C#/AddTwoNumbers/AddTwoNumbers/obj/Debug/net10.0/AddTwoNumbers.genruntimeconfig.cache
+/Users/meumac/Code/ExercisesSolutions/LeetCode/C#/AddTwoNumbers/AddTwoNumbers/obj/Debug/net10.0/ref/AddTwoNumbers.dll
